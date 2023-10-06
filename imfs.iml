@@ -12,5 +12,6 @@
     <orderEntry type="library" name="springframework.shell.spring.starter" level="project" />
     <orderEntry type="library" name="testng" level="project" />
     <orderEntry type="library" name="google.guava" level="project" />
+    <orderEntry type="library" name="listenablefuture-9999.0-empty-to-avoid-conflict-with-guava" level="project" />
   </component>
 </module>
